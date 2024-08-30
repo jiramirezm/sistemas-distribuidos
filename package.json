@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "glob": "^7.2.3",
+    "inflight": "^1.0.6",
+    "node.js": "^0.0.1-security",
+    "zeromq": "^6.0.4",
+    "zwq": "^1.0.0"
+  }
+}
